@@ -1,9 +1,0 @@
-num_1=int(input("enter a number for fresh loaves purchased"))
-num_2=int(input("enter a number old"))
-
-b1 =num_1*185
-b2 = 185*num_2 * .4
-print("Regular price: ",185)
-print("Amount of new loaves:",b1)
-print("amount of day old loaves:",b2)
-print("total amount Rs.:",b1+b2)
